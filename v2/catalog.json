@@ -1,0 +1,241 @@
+{
+  "generatedAt": "2026-10-22T15:51:49Z",
+  "product": "theme_launcher_plus",
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "bundled": true,
+      "category": "nature",
+      "enabled": true,
+      "id": "spring_meadow",
+      "isNew": true,
+      "packageSize": 647598,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/package/b3b019888064c7982be34dc5ed5a36c8044863a61912bf85a0a6a3eae8f17a37.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/preview/e58dd1f7d35b67f14a49aa3c99cfff17d0c00ebb883ab9b2d7eaa83d0db2b519.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/preview/d4d51e6cceb11799ef38b859d87d4cf50b4554157607a817e78c7d1f1b1d411b.webp"
+      ],
+      "sortOrder": 10,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/thumb/6ce074d723ba9e73d51beeabb57f77b2fdc69e24d460a9484f4e9c9cc327eb4d.webp",
+      "title": {
+        "de": "Frühlingswiese",
+        "en": "Spring Meadow",
+        "es": "Pradera primaveral",
+        "fr": "Prairie printanière",
+        "it": "Prato primaverile",
+        "pt": "Prado de primavera",
+        "ro": "Pajiște de primăvară"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "ocean_glass",
+      "isNew": true,
+      "packageSize": 379502,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/package/c8382fb29f4b4c291303656227a5e6a1ebf1e6cdc509c34619b8d9e5bf37d699.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/preview/c462fdff3a4bcc77abb672dbc2c5db61fe7b1fee79f14d2aa35cfb06818e0954.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/preview/83578dd7bc82db8030733d1af0903253bc4d49b4b84d22445e4877b67294ec11.webp"
+      ],
+      "sortOrder": 20,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/thumb/18918cda37c4ee2886a4e91ce2e3b92428d8e85e9295c3763a6ed7838eb7662c.webp",
+      "title": {
+        "de": "Ozeanglas",
+        "en": "Ocean Glass",
+        "es": "Cristal oceánico",
+        "fr": "Verre océanique",
+        "it": "Vetro oceanico",
+        "pt": "Vidro oceânico",
+        "ro": "Sticlă oceanică"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "sakura_dream",
+      "isNew": true,
+      "packageSize": 440040,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/package/9592a28f02380d138c52b40d056080180bfd66ba0857930b012285abad841516.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/preview/dcd4decaf0a4d15829102bb0e538fcd16c39c8368b7935c6045b95e4fbfe03d2.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/preview/fce93748f824284cd0eb4361609cd70cd4b8afe7b5c098c0c070b01218c03df7.webp"
+      ],
+      "sortOrder": 30,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/thumb/44f287fd2585d03c2d4242a0de6a6d733a8cb2715ad9f85090f30302869acfff.webp",
+      "title": {
+        "de": "Sakura-Traum",
+        "en": "Sakura Dream",
+        "es": "Sueño de sakura",
+        "fr": "Rêve de sakura",
+        "it": "Sogno di sakura",
+        "pt": "Sonho de sakura",
+        "ro": "Vis de sakura"
+      },
+      "version": 2
+    },
+    {
+      "bundled": true,
+      "category": "abstract",
+      "enabled": true,
+      "id": "neon_night",
+      "isNew": true,
+      "packageSize": 318200,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/package/1076ee47ebe5d691c4ebed8d4017715129e9cf6330cd6c9a92e47a242693e7bd.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/preview/627d32b0bc205ca74f6751d3952e601d39569af1564990d520cfdb6c4f90a946.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/preview/e57bb1b48dc60b7a98833a247deb009ce5e1eba1b4752a4960a134e1c980d126.webp"
+      ],
+      "sortOrder": 40,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/thumb/9b96508d741f3c4ae580409ef5c1ab8e7bde11445f31ec3ea8d062b2c900df56.webp",
+      "title": {
+        "de": "Neonnacht",
+        "en": "Neon Night",
+        "es": "Noche de neón",
+        "fr": "Nuit néon",
+        "it": "Notte al neon",
+        "pt": "Noite de néon",
+        "ro": "Noapte de neon"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "golden_luxe",
+      "isNew": true,
+      "packageSize": 379657,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/package/ac23be9ff9f8cd8528ec1d5e9daa418db9f528284ab5471b8753f3ee3af74e8d.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/preview/ff2ac6eb5ac8d1725021657656a194b35ecb1b34b3aa302e1a491372e8fa47f0.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/preview/ac186fe83c654575168eb6e86a3adf4352da07a7cb87b1eb74ead84e575109ec.webp"
+      ],
+      "sortOrder": 50,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/thumb/c5295a6980311c9ad10adeb2917fee5b350bb4884d7082c5647739b7b8a4ad71.webp",
+      "title": {
+        "de": "Goldener Luxus",
+        "en": "Golden Luxe",
+        "es": "Lujo dorado",
+        "fr": "Luxe doré",
+        "it": "Lusso dorato",
+        "pt": "Luxo dourado",
+        "ro": "Lux auriu"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "candy_pop",
+      "isNew": true,
+      "packageSize": 319069,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/package/d44b4562ca53e41c99e8bc51f7b66cc15db5ea137f5433bdbd054422cdf9acfa.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/preview/ee47c58d5be3f1552490baa6fd2142d15018592f4252dc19b2bedb875da0f883.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/preview/19fc3eb090c90b56020897cce1b19fd980af0e22407844b1d5cd817e74bb4b2f.webp"
+      ],
+      "sortOrder": 60,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/thumb/03dc81cd1a6691b8c73ac247b20ec40e51c8864db8918f0b6f387718d6f43ec0.webp",
+      "title": {
+        "de": "Bonbon-Pop",
+        "en": "Candy Pop",
+        "es": "Dulce pop",
+        "fr": "Bonbon pop",
+        "it": "Caramelle pop",
+        "pt": "Doce pop",
+        "ro": "Bomboane pop"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "autumn_forest",
+      "isNew": true,
+      "packageSize": 621246,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/package/67a0c4bed14f270bc368ef87c28e695a95386a5623295a9e9c9570e659c32850.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/preview/293c212de73c15bf38685bca1f398e4bfb026e3e9c736b3eb4cbf98eaaedd8dc.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/preview/5532e8a3237b2966a0ac72a49f40c123271fbeaba77d90e6994806778b737b22.webp"
+      ],
+      "sortOrder": 70,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/thumb/a34200d957449bf2f32665dbc174a4c0156b6d53f465fe43341f602cf4ac6ee6.webp",
+      "title": {
+        "de": "Herbstwald",
+        "en": "Autumn Forest",
+        "es": "Bosque otoñal",
+        "fr": "Forêt d’automne",
+        "it": "Bosco autunnale",
+        "pt": "Floresta de outono",
+        "ro": "Pădure de toamnă"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "space",
+      "enabled": true,
+      "id": "galaxy",
+      "isNew": true,
+      "packageSize": 519724,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/package/d3edc1ef1d48a4f83696d0e69f508399b017af8eb5ecd43ba703a0049a79f058.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/preview/69f0e2cc7c035114d9d6bab96329edc98b7aff6bc2cbac35339678ecc11cf3d7.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/preview/18629ec325ff00c9192dd52bdec0a9d0325caa01d8e48e7d4367a3e5cff05882.webp"
+      ],
+      "sortOrder": 80,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/thumb/edbad30cde5e3aca7e62b2079d3aa6c269292f95eb9140780046c750334c852d.webp",
+      "title": {
+        "de": "Galaxie",
+        "en": "Galaxy",
+        "es": "Galaxia",
+        "fr": "Galaxie",
+        "it": "Galassia",
+        "pt": "Galáxia",
+        "ro": "Galaxie"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "handcrafted",
+      "enabled": true,
+      "id": "walnut_atelier",
+      "isNew": true,
+      "packageSize": 2374668,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/package/8ad229fe9189fe72714b826461c9d06c7b18fafeaccecd37bd951b5bebfb4aac.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/preview/204856b7f4076b76de563462be06d33b7d92aa717a3ac991e575436de5c17038.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/preview/3d5cf4bd1643fb209956149dd955bfdc06d6e63f7c0dedd7a6f82d91785abc23.webp"
+      ],
+      "sortOrder": 90,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/thumb/29284ca7b5475dd53ca151d406b4df5083574115190563c467f1bb80973180d1.webp",
+      "title": {
+        "de": "Walnuss-Atelier",
+        "en": "Walnut Atelier",
+        "es": "Atelier de nogal",
+        "fr": "Atelier de noyer",
+        "it": "Atelier di noce",
+        "pt": "Ateliê de nogueira",
+        "ro": "Atelier de nuc"
+      },
+      "version": 8
+    }
+  ]
+}
