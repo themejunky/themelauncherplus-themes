@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:51:49Z",
+  "generatedAt": "2026-10-23T07:32:04Z",
   "product": "theme_launcher_plus",
   "schemaVersion": 1,
   "themes": [
@@ -236,6 +236,760 @@
         "ro": "Atelier de nuc"
       },
       "version": 8
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "halloween_night",
+      "isNew": true,
+      "packageSize": 2887595,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/package/c25627633b255e9928fea17dc1d3d158632a64c52eb58dfd0f8a2f6e77d78a02.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/preview/35b4f097d80f30d4a2b9e3f91bd2dac0a3fb34b731f94d7271848d3e3af54fd4.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/preview/99b38ea2cddde5fb4a2530b322df216f46bf373f5a2420e0fc92f0ea88f1b5ff.webp"
+      ],
+      "sortOrder": 100,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/thumb/37d16c6aecac30521e4824ab78eebfcd385e772dacef46c2d0150578e08816c1.webp",
+      "title": {
+        "de": "Halloween-Nacht",
+        "en": "Halloween Night",
+        "es": "Noche de Halloween",
+        "fr": "Nuit d'Halloween",
+        "it": "Notte di Halloween",
+        "pt": "Noite de Halloween",
+        "ro": "Noapte de Halloween"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "pink_diamond",
+      "isNew": true,
+      "packageSize": 3089807,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/package/66987c6e0f1c402a7e7f9c79e514a97c21a8d09961f46537619543a86b88e58f.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/preview/fa8d17d7aeb15f3bdb4a621b46b6abb8862dbb4108caf3c049ef79ddb60d7a25.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/preview/9b02e0c63dbef0f9158c874486044771bc60f28ec09fe97042e411e3f731a269.webp"
+      ],
+      "sortOrder": 110,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/thumb/406f5e7ebf7de8567bc115dd0ed59f9e81643c4b684a2fd8abd4036dab3dbcf6.webp",
+      "title": {
+        "de": "Rosa Diamant",
+        "en": "Pink Diamond",
+        "es": "Diamante rosa",
+        "fr": "Diamant rose",
+        "it": "Diamante rosa",
+        "pt": "Diamante rosa",
+        "ro": "Diamant roz"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "kawaii_kitty",
+      "isNew": true,
+      "packageSize": 2190917,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/package/ce66a78a77f87b8647906a63cb07e4a3f449b4150bfc46b551092f61e06d4617.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/preview/384a56090468c21c456eb0df3c8b27fca300fe7d36554ccba9c97c731f6dd7e1.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/preview/08ff081d70674a3989cb45df5cb147d10e190bf62f08b382f4cb9f2a423b8dda.webp"
+      ],
+      "sortOrder": 120,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/thumb/f176640aa2678da98a47949a574aa34d5bd841a7422623b293f85c5a0c6f8f2a.webp",
+      "title": {
+        "de": "Kawaii-Kätzchen",
+        "en": "Kawaii Kitty",
+        "es": "Gatita Kawaii",
+        "fr": "Chaton Kawaii",
+        "it": "Gattino Kawaii",
+        "pt": "Gatinho Kawaii",
+        "ro": "Pisicuță Kawaii"
+      },
+      "version": 3
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "cyberpunk_city",
+      "isNew": true,
+      "packageSize": 2392367,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/package/8ec304505ce1ed8221927b046b6d1c51e59d336326c8f3c097645b5b334852fb.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/preview/35e90abfa1480b429fa0171ac550877c4bed805606e14b4493bdb9e74d0e47ee.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/preview/dc74102d3e88564be071096aed317d96c2d75836c775586fde0bd41b681c3cff.webp"
+      ],
+      "sortOrder": 130,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/thumb/11544ccf22f5b1601d855a7b5c257a4b849318e278937d359d4c0b134fb11219.webp",
+      "title": {
+        "de": "Cyberpunk-Stadt",
+        "en": "Cyberpunk City",
+        "es": "Ciudad cyberpunk",
+        "fr": "Ville cyberpunk",
+        "it": "Città cyberpunk",
+        "pt": "Cidade cyberpunk",
+        "ro": "Oraș cyberpunk"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "christmas_magic",
+      "isNew": true,
+      "packageSize": 2560617,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/package/56b1af7f7c58b831c2d0b49b11f8700d71c767568c935d6211eab29e1cc48769.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/preview/4217c447b82347340267a13c1a0fcd90561b3f49eb56e628f2eee1f2fe6c0e96.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/preview/0aa9ad786fa222c2bb29a3078f77adc393a227a409f0915f319b07dbdaafd395.webp"
+      ],
+      "sortOrder": 140,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/thumb/3f039d3a15329b00f45c024cf8e56e5ce21ddbde6347bd77f9522c79b9275257.webp",
+      "title": {
+        "de": "Weihnachtszauber",
+        "en": "Christmas Magic",
+        "es": "Magia de Navidad",
+        "fr": "Magie de Noël",
+        "it": "Magia di Natale",
+        "pt": "Magia de Natal",
+        "ro": "Magia Crăciunului"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "winter_frost",
+      "isNew": true,
+      "packageSize": 3220042,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/package/9d92e957a593a630cf4c139e1721b449b44adb09a1de924fb1c7e8c50aad194a.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/preview/907dad0cd2c388818bb0a6ad3bf8e1c92bcce15f38c9eb6bdf2605cf17b859c8.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/preview/1b5c438e83fff2305bc6aec6d6d36b9a96d78f02fda4442b5a403f5fa199b744.webp"
+      ],
+      "sortOrder": 150,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/thumb/805bc2cd450a905292cf81f496e843350a050b9651ad18a1d1cf3843b9a4f1d6.webp",
+      "title": {
+        "de": "Winterfrost",
+        "en": "Winter Frost",
+        "es": "Escarcha invernal",
+        "fr": "Givre hivernal",
+        "it": "Brina invernale",
+        "pt": "Geada de inverno",
+        "ro": "Chiciură de iarnă"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "royal_sapphire",
+      "isNew": true,
+      "packageSize": 3669590,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/package/6ac6640c170725fbe1bdc33add249eb743abba354e1a9bb45dbd9f76068e2e25.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/preview/209c933f8bce6f09ddd868a4b0fe91d0feadc71661e210fe08670a72694a189b.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/preview/9b98f5d381057a38bc6e4a53624c1ec73ae1a3ba3c7cda0fc368d382fc2a6e40.webp"
+      ],
+      "sortOrder": 160,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/thumb/82bf67a83e327f722ca6c013ce69a53d120bd878c6829fa71f503f2d40566d44.webp",
+      "title": {
+        "de": "Königlicher Saphir",
+        "en": "Royal Sapphire",
+        "es": "Zafiro real",
+        "fr": "Saphir royal",
+        "it": "Zaffiro reale",
+        "pt": "Safira real",
+        "ro": "Safir regal"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "lavender_fields",
+      "isNew": true,
+      "packageSize": 2774934,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/package/0cab60a344a8173166437205501d6f948d638eb1747d2e4bd029a8753acf7ed0.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/preview/8d42de3b1ea28285bdb013fba7d9d0bee8479ee4f10482db770f2f60e4164ae4.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/preview/dc4e8b95d809b09347b1418f10ec835c57b10efcb5ec29f4c87ace916d858f66.webp"
+      ],
+      "sortOrder": 170,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/thumb/f71acedc8158a925a59b9b54246c45df4888f6008a712a343e40dd9b8fd1b46c.webp",
+      "title": {
+        "de": "Lavendelfelder",
+        "en": "Lavender Fields",
+        "es": "Campos de lavanda",
+        "fr": "Champs de lavande",
+        "it": "Campi di lavanda",
+        "pt": "Campos de lavanda",
+        "ro": "Câmpuri de lavandă"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "dragon_fire",
+      "isNew": true,
+      "packageSize": 3335102,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/package/62f7a55718d978d42189b2b8f3153f0b7c65c9fc7c14e6831eb509d72605ca9c.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/preview/033749ac7ea19693155135f78f2a1064e948bbbf1fd5799bf09183182b482c6a.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/preview/5036b7c2aee41ea2d075d40ab4fc73dad526e5336317571144d6fffcd4c3b381.webp"
+      ],
+      "sortOrder": 180,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/thumb/b69213c28ce67f9eb122c06dc0b1eac8b99a7a5ef0a53ca708a13d979537e488.webp",
+      "title": {
+        "de": "Drachenfeuer",
+        "en": "Dragon Fire",
+        "es": "Fuego de dragón",
+        "fr": "Feu de dragon",
+        "it": "Fuoco di drago",
+        "pt": "Fogo de dragão",
+        "ro": "Foc de dragon"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "golden_mandala",
+      "isNew": true,
+      "packageSize": 3398625,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/package/0e49395b47ff0f04b6fea5ef81f26e04420649f1a6d0e011bfa54e05944e0d5c.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/preview/a05f54aaae7dde1b3f3e5bb24ac25b28b743f7b51f25ad3dccc523f851263ec1.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/preview/91d9286235e411a3c8aebcf7bd9f4f556a861b45db64797ae9c12e2f85dd868d.webp"
+      ],
+      "sortOrder": 190,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/thumb/03d118b373e9e00aee8b74b24c10cc7e89c925f538d80650423e889976c03c89.webp",
+      "title": {
+        "de": "Goldenes Mandala",
+        "en": "Golden Mandala",
+        "es": "Mandala dorado",
+        "fr": "Mandala doré",
+        "it": "Mandala dorato",
+        "pt": "Mandala dourado",
+        "ro": "Mandala aurie"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "rose_gold_marble",
+      "isNew": true,
+      "packageSize": 2371711,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/package/3e16e56d92be73819d109a8f3dab7f1dabaa3cf0bc0897bb4fa18f49355d7906.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/preview/1d68366fdfabc51b9ccb2e5f6332fca55eb49f17717aa814d4af7bdacef1b6fa.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/preview/8ca7fa814e24efa5c9f9be33f8b62189d68dd9a5248754764a2457b9b3b98ff0.webp"
+      ],
+      "sortOrder": 200,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/thumb/13635713e72ded13da0ea2b182838f1ed73756b4fa2ce8eddf32318239ba3671.webp",
+      "title": {
+        "de": "Marmor und Roségold",
+        "en": "Rose Gold Marble",
+        "es": "Mármol y oro rosa",
+        "fr": "Marbre et or rose",
+        "it": "Marmo e oro rosa",
+        "pt": "Mármore e ouro rosé",
+        "ro": "Marmură cu aur roz"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "emerald_velvet",
+      "isNew": true,
+      "packageSize": 3533235,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/package/d544b6ed5b3254612d72151b19128a7501f563dd1b8c196f1ac8be3dc5a29c6b.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/preview/598c7d01444dab1f5fc5d3f66f6452157f85d0ba8394e61cff9c5f5259e93dfe.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/preview/245c0b226f6d64e50cddcd44a0bf897b71cfa5269a251b089d031928877dc2f9.webp"
+      ],
+      "sortOrder": 210,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/thumb/ecf43a7db36cfe661b1c162ca1bc660fad13d9f342df1ae93800c97662ebd775.webp",
+      "title": {
+        "de": "Smaragdsamt",
+        "en": "Emerald Velvet",
+        "es": "Terciopelo esmeralda",
+        "fr": "Velours émeraude",
+        "it": "Velluto smeraldo",
+        "pt": "Veludo esmeralda",
+        "ro": "Catifea de smarald"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "panda_bamboo",
+      "isNew": true,
+      "packageSize": 2834695,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/package/3b29fd604d4a9df6a630932cc0305d26c4bfcbe0f9931de27cab49bbf97b834b.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/preview/4f37ec5ba998b07d4a4b5e09e8ee582f35ad411bb052abc83dc211869b893a1d.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/preview/8f8cf8502ec49b2d817bb9e621fc3c37de69b9b1c7f9ffb7635419b0cfb75b88.webp"
+      ],
+      "sortOrder": 220,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/thumb/e4f8ee9534012adddbf890bc84f86014f020b3dc1ae068d120250e1ff1f48130.webp",
+      "title": {
+        "de": "Panda & Bambus",
+        "en": "Panda Bamboo",
+        "es": "Panda y bambú",
+        "fr": "Panda et bambou",
+        "it": "Panda e bambù",
+        "pt": "Panda e bambu",
+        "ro": "Panda și bambus"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "unicorn_dream",
+      "isNew": true,
+      "packageSize": 2423861,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/package/8c90275d98ff41235dd1e1a6c2c1cc60d2f7f676df108bcdaa36a143757299da.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/preview/2048af70d90de53f887e6c115fe1d6c545090a0e21657143131fc5763b71ba90.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/preview/66eea1481afb8f7995ad599a7aad4d1210f4f685f87915a8e0dc771c086bad10.webp"
+      ],
+      "sortOrder": 230,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/thumb/b92624e975a34b5349f8b81a9538a3755dc3c7acfc5744af59b24d7901e1066b.webp",
+      "title": {
+        "de": "Einhorntraum",
+        "en": "Unicorn Dream",
+        "es": "Sueño de unicornio",
+        "fr": "Rêve de licorne",
+        "it": "Sogno di unicorno",
+        "pt": "Sonho de unicórnio",
+        "ro": "Vis de unicorn"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "retro_synthwave",
+      "isNew": true,
+      "packageSize": 2415838,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/package/2a26812679329b3b43fe0613211bf8bb1b400ac5d932d5984d5963ea577706ce.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/preview/274cd2f80bd4bb9a9e522cec88767a4c1c75a2e12f159077f25029ead1ef6436.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/preview/819095d05d26c9b29b316917e68bd3fc0d06fe23c745a0cf168b866edaa20712.webp"
+      ],
+      "sortOrder": 240,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/thumb/0cf149731410822b8ab3d96523567b357705dd27924d0465de35261cab6a94d1.webp",
+      "title": {
+        "de": "Retro-Synthwave",
+        "en": "Retro Synthwave",
+        "es": "Synthwave retro",
+        "fr": "Synthwave rétro",
+        "it": "Synthwave rétro",
+        "pt": "Synthwave retrô",
+        "ro": "Synthwave retro"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "fairy_forest",
+      "isNew": true,
+      "packageSize": 4624190,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/package/78c7c4c5c7513b88fa8f5489d5a60cf584e15b95781600dd0d668a5a52efbee3.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/preview/783ff37382d28b813c453db53cb90dd73421097979e9097e135d3f022de8e667.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/preview/15911cbb47b0a9add005a7b14518c62143cb3b89fb140c3da7929948c77a055c.webp"
+      ],
+      "sortOrder": 250,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/thumb/6dbec6922af1d169ccd3963b9f546b43364bee3324723f5f2efbd03f9a810660.webp",
+      "title": {
+        "de": "Feenwald",
+        "en": "Fairy Forest",
+        "es": "Bosque de hadas",
+        "fr": "Forêt des fées",
+        "it": "Bosco delle fate",
+        "pt": "Floresta encantada",
+        "ro": "Pădurea zânelor"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "space",
+      "enabled": true,
+      "id": "zodiac_stars",
+      "isNew": true,
+      "packageSize": 2905732,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/package/96e696a5842d0b184f0065a1a46af7ef7a3850283dc3850fc1c6c2209dd9eadc.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/preview/1e8dadacd2d01e2287260c77f6b4ec49324221df44e2d1d51c0d27a5d14a5c11.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/preview/64fca65dc3b01bd439d19995a52c65f04b89f11b7438bf40976b52f13cac58a0.webp"
+      ],
+      "sortOrder": 260,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/thumb/43537c4451c1bd5c02b60b120c979c26c7474a652a080a96164632bf5dc69407.webp",
+      "title": {
+        "de": "Sternzeichen",
+        "en": "Zodiac Stars",
+        "es": "Estrellas del zodiaco",
+        "fr": "Étoiles du zodiaque",
+        "it": "Stelle dello zodiaco",
+        "pt": "Estrelas do zodíaco",
+        "ro": "Stelele zodiacului"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "tropical_paradise",
+      "isNew": true,
+      "packageSize": 3537432,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/package/0202d6d537eb7bee99ffcab879435eb3ac3e0cae1e2aa96549b03b0710fab594.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/preview/cabd38fa1d64834762fa10b8f30aeb405d772196da4e40b02b2bd420236bf68c.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/preview/41a4599657e1d35c51d9fe6b31efe97b7f843c4fe7f6e8c22be71c266a185869.webp"
+      ],
+      "sortOrder": 270,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/thumb/238b8eb63bbcbc273f6bf32aaf4701753cd5c178f52d20e7239be81f34bdf625.webp",
+      "title": {
+        "de": "Tropenparadies",
+        "en": "Tropical Paradise",
+        "es": "Paraíso tropical",
+        "fr": "Paradis tropical",
+        "it": "Paradiso tropicale",
+        "pt": "Paraíso tropical",
+        "ro": "Paradis tropical"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "carbon_racing",
+      "isNew": true,
+      "packageSize": 2554667,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/package/8fa12eba911de20da4aabd75d66cc1f9f584f21e02cfdbd4ce51b1c14a8c2692.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/preview/fde579da6332707533f14e7519ea24149e151c83ba864ca079fef6736af63852.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/preview/1ff262bdb5b61cb908d74ca2e175d93f5e91179566ade9e83b503d2bf6311b92.webp"
+      ],
+      "sortOrder": 280,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/thumb/daff97daa8a5d34d9ce02a263f612078dfe2c81a0988f1db4b5ecc97fd5813d7.webp",
+      "title": {
+        "de": "Carbon-Rennsport",
+        "en": "Carbon Racing",
+        "es": "Carreras de carbono",
+        "fr": "Course carbone",
+        "it": "Corsa carbonio",
+        "pt": "Corrida carbono",
+        "ro": "Curse carbon"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "butterfly_garden",
+      "isNew": true,
+      "packageSize": 2191782,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/package/440b25955a4279541eb28b730b2fd4bb178cd8d65505535fbd52b798c735d0f1.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/preview/ebbdecaee7d7831e05c06a0ce0946cd4123b2d96b6abe146e425a225d4a39c56.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/preview/c2f418c4bc9884f26ae3c341402a384c1a90968c692a5650c44598ae97e71797.webp"
+      ],
+      "sortOrder": 290,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/thumb/6bb0d858897324cc7de128d3d0337ac5e2e8e9ce396602b32aab43180b173593.webp",
+      "title": {
+        "de": "Schmetterlingsgarten",
+        "en": "Butterfly Garden",
+        "es": "Jardín de mariposas",
+        "fr": "Jardin des papillons",
+        "it": "Giardino delle farfalle",
+        "pt": "Jardim de borboletas",
+        "ro": "Grădina fluturilor"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "pearl_champagne",
+      "isNew": true,
+      "packageSize": 3555001,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/package/e82870cb664fb908e6e5f23d16a6cd7246ab5b2006042b807c442b1b3c0e2242.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/preview/820097dfd9804db4a927f726f4e9c957338df5492a15c60466e95f1d747c0c68.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/preview/72a7dafcdad5e239acf5d1f23ac6031d6926f6880d3804ce679cb70c0e7275ff.webp"
+      ],
+      "sortOrder": 300,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/thumb/dd5837c59af97e09de30f2aead583d4878d7dacb0fccdc36a24f4f75fbdc1796.webp",
+      "title": {
+        "de": "Perlen-Champagner",
+        "en": "Pearl Champagne",
+        "es": "Perla y champán",
+        "fr": "Perle champagne",
+        "it": "Perla e champagne",
+        "pt": "Pérola e champanhe",
+        "ro": "Perle și șampanie"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "bunny_meadow",
+      "isNew": true,
+      "packageSize": 3983609,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/package/d68122c9b9c313a54bf795645dd2c323962727745c420f98ccac5285feaecc6d.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/preview/1f4702b691427ed6c3eaab4fb22ece08dcaffe80c2a60f0674b8d2972f43bee8.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/preview/5e62e687d6abf0609c727153e1ee5af54b73bc530a2a44618179774d75a46d18.webp"
+      ],
+      "sortOrder": 310,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/thumb/3eaf906cd1c5bcb3a2c07e2c9ad3a6f0f7e314a281f07b5bc5df507535bf42d0.webp",
+      "title": {
+        "de": "Häschenwiese",
+        "en": "Bunny Meadow",
+        "es": "Prado de conejitos",
+        "fr": "Prairie des lapins",
+        "it": "Prato dei coniglietti",
+        "pt": "Prado dos coelhinhos",
+        "ro": "Pajiștea iepurașilor"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "mermaid_lagoon",
+      "isNew": true,
+      "packageSize": 4300990,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/package/d7c547cd10f53811ac1eaaa3e090e4c9eaca895a5bec2373497f70042fb04912.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/preview/4c61ea96d36ffe78c9ea3dc034d1106cba229b842d771c8632bdf1f32b8a9770.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/preview/0a96fe184bf8709d5799e2d4ca1f6b379d4c3410a5551208d0dd0bab2afdc52d.webp"
+      ],
+      "sortOrder": 320,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/thumb/c98ad6530036e4dd12dfe02d020808d2475d596c63c6005865fc6f617c8a6499.webp",
+      "title": {
+        "de": "Meerjungfrauenlagune",
+        "en": "Mermaid Lagoon",
+        "es": "Laguna de sirenas",
+        "fr": "Lagon des sirènes",
+        "it": "Laguna delle sirene",
+        "pt": "Lagoa das sereias",
+        "ro": "Laguna sirenelor"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "desert_dunes",
+      "isNew": true,
+      "packageSize": 2512443,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/package/67aa311bc4fc6d24924c7c774f9e48ea07346783d1a4eb84dfb3ad4b3a567030.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/preview/b0bcd0b2429eb0bb17c414c224c5a94b6e4c39b097885c81dac12678ffb55444.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/preview/abfd1b2d98fa9ec52af67632fbbf6fae9df045098988777baae9ef32e13d3375.webp"
+      ],
+      "sortOrder": 330,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/thumb/7970a508a0aa2085ccca1260b5b48d894f7df95dbe199645eb3e41af9149e489.webp",
+      "title": {
+        "de": "Wüstendünen",
+        "en": "Desert Dunes",
+        "es": "Dunas del desierto",
+        "fr": "Dunes du désert",
+        "it": "Dune del deserto",
+        "pt": "Dunas do deserto",
+        "ro": "Dunele deșertului"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "minimal",
+      "enabled": true,
+      "id": "zen_garden",
+      "isNew": true,
+      "packageSize": 2868943,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/package/01923d68208ca768a101a39104d328a972b4183fe27ea7277913362b0badbf6d.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/preview/3c670e7d209930051af7ed034b62300958838088dd403456a4baca2d649d8e84.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/preview/b6d6c765aef877ab9a2b9f13b9d2003a8a453c1174127cfb0236ea90e77c803b.webp"
+      ],
+      "sortOrder": 340,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/thumb/5eadd7913ddf647e6a1a28720d1edc94940a9bdc8c9e4c98552f679218caf401.webp",
+      "title": {
+        "de": "Zen-Garten",
+        "en": "Zen Garden",
+        "es": "Jardín zen",
+        "fr": "Jardin zen",
+        "it": "Giardino zen",
+        "pt": "Jardim zen",
+        "ro": "Grădină zen"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "watercolor_blooms",
+      "isNew": true,
+      "packageSize": 3019979,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/package/4ec90570d64619a2ff6af8e9a687f0ef51344900cf838ddf9e220ee6ab90eaa3.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/preview/8ff82512fd8b9ff137100d07a3e1d9c8cc5fc2a422d30339e3508fe8b3a01190.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/preview/56fb355a87af14285bb2e61653affd306bafe13f4dbaf1affa241d4e8c298b32.webp"
+      ],
+      "sortOrder": 350,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/thumb/0476696b9792c246649f1fdc6fd6ee59acb9cb6338e9dc56519b96352faf8c90.webp",
+      "title": {
+        "de": "Aquarellblüten",
+        "en": "Watercolor Blooms",
+        "es": "Flores en acuarela",
+        "fr": "Fleurs aquarelle",
+        "it": "Fiori ad acquerello",
+        "pt": "Flores em aquarela",
+        "ro": "Flori în acuarelă"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "stained_glass",
+      "isNew": true,
+      "packageSize": 3676224,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/package/50443ad0d0f6cd18a037803da6b039c72e1ff9b4de998c0a8f51ee5301673760.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/preview/19fa33a074bc6e4d49e57385584bee3a3b78f5e83ff653a4bd42676dcca0eaab.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/preview/42a214032e657ad2bd177091fe2a8ad38e5aca18c8a5d9579c6c549226535530.webp"
+      ],
+      "sortOrder": 360,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/thumb/8af13dc30078cb451cbe7b33459c920a1f010caf2f5661ab1a0032fb9fd4648b.webp",
+      "title": {
+        "de": "Buntglas",
+        "en": "Stained Glass",
+        "es": "Vitral",
+        "fr": "Vitrail",
+        "it": "Vetrata",
+        "pt": "Vitral",
+        "ro": "Vitraliu"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "angel_light",
+      "isNew": true,
+      "packageSize": 3191232,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/package/57a2b9a7e79bac83d3d90f4abe4e19b7f35c198545b8e0a620f93ecd7968adb7.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/preview/b4ae6fabcfbbcbb294dc764f1fb33e16dba91ce734932964d53d826df144950c.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/preview/a3e33ed9c6e4d00ff0521f284fdeb7923243fccc1e1d04fcbadfce4e5722a5dd.webp"
+      ],
+      "sortOrder": 370,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/thumb/40a1a7081d76301c684e7ed88351b0648587efb64e5fc7855d6f5cbba410676e.webp",
+      "title": {
+        "de": "Engelslicht",
+        "en": "Angel Light",
+        "es": "Luz de ángel",
+        "fr": "Lumière d'ange",
+        "it": "Luce d'angelo",
+        "pt": "Luz de anjo",
+        "ro": "Lumină de înger"
+      },
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "sky_lanterns",
+      "isNew": true,
+      "packageSize": 2831536,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/package/a1d15dbddd638e8e71f2df77d6d05d19f02701df5bde92e15252bd3977445a75.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/preview/929ab8b8bf1a1b010a22b61b240b8fc53a219802103c23208d935ebf13fd1951.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/preview/57520c155a2d30ec1fdf3a7eccae144ff906c02a2d6090fcfe53a0dfed5adb6c.webp"
+      ],
+      "sortOrder": 380,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/thumb/bdade545878a0e441212d01af8fc80ef82cbb4696bf44589d0acd4cb359dab5c.webp",
+      "title": {
+        "de": "Himmelslaternen",
+        "en": "Sky Lanterns",
+        "es": "Linternas al cielo",
+        "fr": "Lanternes célestes",
+        "it": "Lanterne volanti",
+        "pt": "Lanternas do céu",
+        "ro": "Lampioane zburătoare"
+      },
+      "version": 1
     }
   ]
 }
