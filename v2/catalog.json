@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T07:32:04Z",
+  "generatedAt": "2026-10-24T16:26:49Z",
   "product": "theme_launcher_plus",
   "schemaVersion": 1,
   "themes": [
@@ -9,8 +9,8 @@
       "enabled": true,
       "id": "spring_meadow",
       "isNew": true,
-      "packageSize": 647598,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/package/b3b019888064c7982be34dc5ed5a36c8044863a61912bf85a0a6a3eae8f17a37.tlptheme",
+      "packageSize": 647619,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/package/8d345f3f0afdb4e86850f6df76dd58cfa0f2c15a85d428c74e3854da0c5f0075.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/spring_meadow/preview/e58dd1f7d35b67f14a49aa3c99cfff17d0c00ebb883ab9b2d7eaa83d0db2b519.webp",
@@ -27,7 +27,7 @@
         "pt": "Prado de primavera",
         "ro": "Pajiște de primăvară"
       },
-      "version": 2
+      "version": 4
     },
     {
       "bundled": false,
@@ -35,8 +35,8 @@
       "enabled": true,
       "id": "ocean_glass",
       "isNew": true,
-      "packageSize": 379502,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/package/c8382fb29f4b4c291303656227a5e6a1ebf1e6cdc509c34619b8d9e5bf37d699.tlptheme",
+      "packageSize": 379498,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/package/4757468a2dd10eff3dc385dbf9238c2b86f02a9604850fade5981925066d469f.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ocean_glass/preview/c462fdff3a4bcc77abb672dbc2c5db61fe7b1fee79f14d2aa35cfb06818e0954.webp",
@@ -53,7 +53,7 @@
         "pt": "Vidro oceânico",
         "ro": "Sticlă oceanică"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -61,8 +61,8 @@
       "enabled": true,
       "id": "sakura_dream",
       "isNew": true,
-      "packageSize": 440040,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/package/9592a28f02380d138c52b40d056080180bfd66ba0857930b012285abad841516.tlptheme",
+      "packageSize": 440037,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/package/261d0d5ac2ddae1d98f2a292f9f0bd4732c246f40ae6e8bf3d78b9970c777188.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sakura_dream/preview/dcd4decaf0a4d15829102bb0e538fcd16c39c8368b7935c6045b95e4fbfe03d2.webp",
@@ -79,7 +79,7 @@
         "pt": "Sonho de sakura",
         "ro": "Vis de sakura"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": true,
@@ -87,8 +87,8 @@
       "enabled": true,
       "id": "neon_night",
       "isNew": true,
-      "packageSize": 318200,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/package/1076ee47ebe5d691c4ebed8d4017715129e9cf6330cd6c9a92e47a242693e7bd.tlptheme",
+      "packageSize": 318210,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/package/50699196e5fe1083fe4cb847a4be5c0f5175f5549756959441434639152b8f0e.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/neon_night/preview/627d32b0bc205ca74f6751d3952e601d39569af1564990d520cfdb6c4f90a946.webp",
@@ -105,7 +105,7 @@
         "pt": "Noite de néon",
         "ro": "Noapte de neon"
       },
-      "version": 2
+      "version": 4
     },
     {
       "bundled": false,
@@ -113,8 +113,8 @@
       "enabled": true,
       "id": "golden_luxe",
       "isNew": true,
-      "packageSize": 379657,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/package/ac23be9ff9f8cd8528ec1d5e9daa418db9f528284ab5471b8753f3ee3af74e8d.tlptheme",
+      "packageSize": 379656,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/package/c7f70e5028cfa6a6e8c205b8517974e076eee40eab2139cd9ac3f801fd597301.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_luxe/preview/ff2ac6eb5ac8d1725021657656a194b35ecb1b34b3aa302e1a491372e8fa47f0.webp",
@@ -131,7 +131,7 @@
         "pt": "Luxo dourado",
         "ro": "Lux auriu"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -139,8 +139,8 @@
       "enabled": true,
       "id": "candy_pop",
       "isNew": true,
-      "packageSize": 319069,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/package/d44b4562ca53e41c99e8bc51f7b66cc15db5ea137f5433bdbd054422cdf9acfa.tlptheme",
+      "packageSize": 319068,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/package/e61ad46a3bf644a3c1088599570ecae3dbe18be2c013054c3f8ebbbc3e16128a.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/candy_pop/preview/ee47c58d5be3f1552490baa6fd2142d15018592f4252dc19b2bedb875da0f883.webp",
@@ -157,7 +157,7 @@
         "pt": "Doce pop",
         "ro": "Bomboane pop"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -165,8 +165,8 @@
       "enabled": true,
       "id": "autumn_forest",
       "isNew": true,
-      "packageSize": 621246,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/package/67a0c4bed14f270bc368ef87c28e695a95386a5623295a9e9c9570e659c32850.tlptheme",
+      "packageSize": 621248,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/package/b7cf2fff0af57502646e2678065f57cd526e4d7e5ea22d5c4ad999ff9fa15d67.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/autumn_forest/preview/293c212de73c15bf38685bca1f398e4bfb026e3e9c736b3eb4cbf98eaaedd8dc.webp",
@@ -183,7 +183,7 @@
         "pt": "Floresta de outono",
         "ro": "Pădure de toamnă"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -192,7 +192,7 @@
       "id": "galaxy",
       "isNew": true,
       "packageSize": 519724,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/package/d3edc1ef1d48a4f83696d0e69f508399b017af8eb5ecd43ba703a0049a79f058.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/package/cc8b15fa683e9467650c11ca80db8e98495d8f1f53b97b9f730127bb55443749.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/galaxy/preview/69f0e2cc7c035114d9d6bab96329edc98b7aff6bc2cbac35339678ecc11cf3d7.webp",
@@ -209,7 +209,7 @@
         "pt": "Galáxia",
         "ro": "Galaxie"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -218,7 +218,7 @@
       "id": "walnut_atelier",
       "isNew": true,
       "packageSize": 2374668,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/package/8ad229fe9189fe72714b826461c9d06c7b18fafeaccecd37bd951b5bebfb4aac.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/package/03caeba7b8725a02b34f25075bb39ec19a42dad58553d1a0cc6ee7b61a08820b.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/walnut_atelier/preview/204856b7f4076b76de563462be06d33b7d92aa717a3ac991e575436de5c17038.webp",
@@ -235,7 +235,7 @@
         "pt": "Ateliê de nogueira",
         "ro": "Atelier de nuc"
       },
-      "version": 8
+      "version": 9
     },
     {
       "bundled": false,
@@ -244,7 +244,7 @@
       "id": "halloween_night",
       "isNew": true,
       "packageSize": 2887595,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/package/c25627633b255e9928fea17dc1d3d158632a64c52eb58dfd0f8a2f6e77d78a02.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/package/126782f84faed41d8e806b4e2d53bbc12dce2baf311514fdd53eea5e111c2356.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/halloween_night/preview/35b4f097d80f30d4a2b9e3f91bd2dac0a3fb34b731f94d7271848d3e3af54fd4.webp",
@@ -261,7 +261,7 @@
         "pt": "Noite de Halloween",
         "ro": "Noapte de Halloween"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -269,8 +269,8 @@
       "enabled": true,
       "id": "pink_diamond",
       "isNew": true,
-      "packageSize": 3089807,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/package/66987c6e0f1c402a7e7f9c79e514a97c21a8d09961f46537619543a86b88e58f.tlptheme",
+      "packageSize": 3089805,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/package/b613936354ab7bf66ccbf998b15f821b6c50d942b40975b8a0d1fba12ee33df6.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pink_diamond/preview/fa8d17d7aeb15f3bdb4a621b46b6abb8862dbb4108caf3c049ef79ddb60d7a25.webp",
@@ -287,7 +287,7 @@
         "pt": "Diamante rosa",
         "ro": "Diamant roz"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -295,8 +295,8 @@
       "enabled": true,
       "id": "kawaii_kitty",
       "isNew": true,
-      "packageSize": 2190917,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/package/ce66a78a77f87b8647906a63cb07e4a3f449b4150bfc46b551092f61e06d4617.tlptheme",
+      "packageSize": 2190910,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/package/ed6210d4ca58d8cab43ececcb8b98bf6096d053e543d5533611505b238dd716a.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kawaii_kitty/preview/384a56090468c21c456eb0df3c8b27fca300fe7d36554ccba9c97c731f6dd7e1.webp",
@@ -313,7 +313,7 @@
         "pt": "Gatinho Kawaii",
         "ro": "Pisicuță Kawaii"
       },
-      "version": 3
+      "version": 4
     },
     {
       "bundled": false,
@@ -321,8 +321,8 @@
       "enabled": true,
       "id": "cyberpunk_city",
       "isNew": true,
-      "packageSize": 2392367,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/package/8ec304505ce1ed8221927b046b6d1c51e59d336326c8f3c097645b5b334852fb.tlptheme",
+      "packageSize": 2392368,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/package/1399bd1765eebbe559a986d8f11f2d5ffad52a949ca87cbad8aea634d4f5e314.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cyberpunk_city/preview/35e90abfa1480b429fa0171ac550877c4bed805606e14b4493bdb9e74d0e47ee.webp",
@@ -339,7 +339,7 @@
         "pt": "Cidade cyberpunk",
         "ro": "Oraș cyberpunk"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -347,8 +347,8 @@
       "enabled": true,
       "id": "christmas_magic",
       "isNew": true,
-      "packageSize": 2560617,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/package/56b1af7f7c58b831c2d0b49b11f8700d71c767568c935d6211eab29e1cc48769.tlptheme",
+      "packageSize": 2560630,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/package/d33fbd868a469d63bda5590072b965b9849388e67eea553dac0452b5fb806c09.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/christmas_magic/preview/4217c447b82347340267a13c1a0fcd90561b3f49eb56e628f2eee1f2fe6c0e96.webp",
@@ -365,7 +365,7 @@
         "pt": "Magia de Natal",
         "ro": "Magia Crăciunului"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -373,8 +373,8 @@
       "enabled": true,
       "id": "winter_frost",
       "isNew": true,
-      "packageSize": 3220042,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/package/9d92e957a593a630cf4c139e1721b449b44adb09a1de924fb1c7e8c50aad194a.tlptheme",
+      "packageSize": 3220053,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/package/52c4a7cee84d573c1a8c63c8baa2592167a7830d3418f908cb472ac00466e5b4.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/winter_frost/preview/907dad0cd2c388818bb0a6ad3bf8e1c92bcce15f38c9eb6bdf2605cf17b859c8.webp",
@@ -391,7 +391,7 @@
         "pt": "Geada de inverno",
         "ro": "Chiciură de iarnă"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -399,8 +399,8 @@
       "enabled": true,
       "id": "royal_sapphire",
       "isNew": true,
-      "packageSize": 3669590,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/package/6ac6640c170725fbe1bdc33add249eb743abba354e1a9bb45dbd9f76068e2e25.tlptheme",
+      "packageSize": 3669591,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/package/ca72459562afd48d3e8c520f315349d8e2a2f79648a254566c48165f44013d68.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/royal_sapphire/preview/209c933f8bce6f09ddd868a4b0fe91d0feadc71661e210fe08670a72694a189b.webp",
@@ -417,7 +417,7 @@
         "pt": "Safira real",
         "ro": "Safir regal"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -425,8 +425,8 @@
       "enabled": true,
       "id": "lavender_fields",
       "isNew": true,
-      "packageSize": 2774934,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/package/0cab60a344a8173166437205501d6f948d638eb1747d2e4bd029a8753acf7ed0.tlptheme",
+      "packageSize": 2774936,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/package/7cb633edcd551fba231656721793ee3f696bc6ace8d07f2a665ae36c9f6e4b61.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lavender_fields/preview/8d42de3b1ea28285bdb013fba7d9d0bee8479ee4f10482db770f2f60e4164ae4.webp",
@@ -443,7 +443,7 @@
         "pt": "Campos de lavanda",
         "ro": "Câmpuri de lavandă"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -451,8 +451,8 @@
       "enabled": true,
       "id": "dragon_fire",
       "isNew": true,
-      "packageSize": 3335102,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/package/62f7a55718d978d42189b2b8f3153f0b7c65c9fc7c14e6831eb509d72605ca9c.tlptheme",
+      "packageSize": 3335101,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/package/c5b800742684638d77fdb1d8363ca7a45b6d30c9e2808e73614b63232eb34d97.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/dragon_fire/preview/033749ac7ea19693155135f78f2a1064e948bbbf1fd5799bf09183182b482c6a.webp",
@@ -469,7 +469,7 @@
         "pt": "Fogo de dragão",
         "ro": "Foc de dragon"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -477,8 +477,8 @@
       "enabled": true,
       "id": "golden_mandala",
       "isNew": true,
-      "packageSize": 3398625,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/package/0e49395b47ff0f04b6fea5ef81f26e04420649f1a6d0e011bfa54e05944e0d5c.tlptheme",
+      "packageSize": 3398626,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/package/1f040a1f89c148f38037a2c054fc08c0753d8d173c3494506a389226d3909d67.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/golden_mandala/preview/a05f54aaae7dde1b3f3e5bb24ac25b28b743f7b51f25ad3dccc523f851263ec1.webp",
@@ -495,7 +495,7 @@
         "pt": "Mandala dourado",
         "ro": "Mandala aurie"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -503,8 +503,8 @@
       "enabled": true,
       "id": "rose_gold_marble",
       "isNew": true,
-      "packageSize": 2371711,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/package/3e16e56d92be73819d109a8f3dab7f1dabaa3cf0bc0897bb4fa18f49355d7906.tlptheme",
+      "packageSize": 2371691,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/package/0f42086a9907b1fccc61f2d53c1445d377b0da0877e497b0c7ee9a9b1a0b5e9c.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/rose_gold_marble/preview/1d68366fdfabc51b9ccb2e5f6332fca55eb49f17717aa814d4af7bdacef1b6fa.webp",
@@ -521,7 +521,7 @@
         "pt": "Mármore e ouro rosé",
         "ro": "Marmură cu aur roz"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -530,7 +530,7 @@
       "id": "emerald_velvet",
       "isNew": true,
       "packageSize": 3533235,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/package/d544b6ed5b3254612d72151b19128a7501f563dd1b8c196f1ac8be3dc5a29c6b.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/package/0d86bd7cefacdfdc7275191e1a518e20d8fa51fb0bf3d67b6454a26907093a51.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/emerald_velvet/preview/598c7d01444dab1f5fc5d3f66f6452157f85d0ba8394e61cff9c5f5259e93dfe.webp",
@@ -547,7 +547,7 @@
         "pt": "Veludo esmeralda",
         "ro": "Catifea de smarald"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -555,8 +555,8 @@
       "enabled": true,
       "id": "panda_bamboo",
       "isNew": true,
-      "packageSize": 2834695,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/package/3b29fd604d4a9df6a630932cc0305d26c4bfcbe0f9931de27cab49bbf97b834b.tlptheme",
+      "packageSize": 2834687,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/package/f095715daadad18f9f541c14059d52407d2ee1e4d6e9f79ed65124893dc9dc68.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/panda_bamboo/preview/4f37ec5ba998b07d4a4b5e09e8ee582f35ad411bb052abc83dc211869b893a1d.webp",
@@ -573,7 +573,7 @@
         "pt": "Panda e bambu",
         "ro": "Panda și bambus"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -581,8 +581,8 @@
       "enabled": true,
       "id": "unicorn_dream",
       "isNew": true,
-      "packageSize": 2423861,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/package/8c90275d98ff41235dd1e1a6c2c1cc60d2f7f676df108bcdaa36a143757299da.tlptheme",
+      "packageSize": 2423852,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/package/11eb565eaa10dde80abc819878fdd5c321c57dc9ecd63d0aa95e3e8f17798f2f.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/unicorn_dream/preview/2048af70d90de53f887e6c115fe1d6c545090a0e21657143131fc5763b71ba90.webp",
@@ -599,7 +599,7 @@
         "pt": "Sonho de unicórnio",
         "ro": "Vis de unicorn"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -607,8 +607,8 @@
       "enabled": true,
       "id": "retro_synthwave",
       "isNew": true,
-      "packageSize": 2415838,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/package/2a26812679329b3b43fe0613211bf8bb1b400ac5d932d5984d5963ea577706ce.tlptheme",
+      "packageSize": 2415843,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/package/69b3a15eb4574cc95821c65b9dacff424d5485edef77612c30fc8a77017390f2.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/retro_synthwave/preview/274cd2f80bd4bb9a9e522cec88767a4c1c75a2e12f159077f25029ead1ef6436.webp",
@@ -625,7 +625,7 @@
         "pt": "Synthwave retrô",
         "ro": "Synthwave retro"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -633,8 +633,8 @@
       "enabled": true,
       "id": "fairy_forest",
       "isNew": true,
-      "packageSize": 4624190,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/package/78c7c4c5c7513b88fa8f5489d5a60cf584e15b95781600dd0d668a5a52efbee3.tlptheme",
+      "packageSize": 4624198,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/package/96d41b3b6686cd4ad21809fafa3f6d395f5ba930ef6c3c748ece7c4c55a468bd.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/fairy_forest/preview/783ff37382d28b813c453db53cb90dd73421097979e9097e135d3f022de8e667.webp",
@@ -651,7 +651,7 @@
         "pt": "Floresta encantada",
         "ro": "Pădurea zânelor"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -659,8 +659,8 @@
       "enabled": true,
       "id": "zodiac_stars",
       "isNew": true,
-      "packageSize": 2905732,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/package/96e696a5842d0b184f0065a1a46af7ef7a3850283dc3850fc1c6c2209dd9eadc.tlptheme",
+      "packageSize": 2905735,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/package/e696c961685b9bf2d7c8da394b21f3bbb89e02f074b96524a883938b658c2ccc.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zodiac_stars/preview/1e8dadacd2d01e2287260c77f6b4ec49324221df44e2d1d51c0d27a5d14a5c11.webp",
@@ -677,7 +677,7 @@
         "pt": "Estrelas do zodíaco",
         "ro": "Stelele zodiacului"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -685,8 +685,8 @@
       "enabled": true,
       "id": "tropical_paradise",
       "isNew": true,
-      "packageSize": 3537432,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/package/0202d6d537eb7bee99ffcab879435eb3ac3e0cae1e2aa96549b03b0710fab594.tlptheme",
+      "packageSize": 3537440,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/package/459e9880fdd3aa50c9e867e194b9baf25a778b6e50bffe84066de4ab31e714b5.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/tropical_paradise/preview/cabd38fa1d64834762fa10b8f30aeb405d772196da4e40b02b2bd420236bf68c.webp",
@@ -703,7 +703,7 @@
         "pt": "Paraíso tropical",
         "ro": "Paradis tropical"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -712,7 +712,7 @@
       "id": "carbon_racing",
       "isNew": true,
       "packageSize": 2554667,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/package/8fa12eba911de20da4aabd75d66cc1f9f584f21e02cfdbd4ce51b1c14a8c2692.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/package/a52821e74090b89063869280eb634a889f1d9d0cc597b57d25978cf62d615ee3.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/carbon_racing/preview/fde579da6332707533f14e7519ea24149e151c83ba864ca079fef6736af63852.webp",
@@ -729,7 +729,7 @@
         "pt": "Corrida carbono",
         "ro": "Curse carbon"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -737,8 +737,8 @@
       "enabled": true,
       "id": "butterfly_garden",
       "isNew": true,
-      "packageSize": 2191782,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/package/440b25955a4279541eb28b730b2fd4bb178cd8d65505535fbd52b798c735d0f1.tlptheme",
+      "packageSize": 2191766,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/package/ca2b77201b58ee4530d6d38a487d77426e2499836cf45d4bb90137ec98bd3bd8.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/butterfly_garden/preview/ebbdecaee7d7831e05c06a0ce0946cd4123b2d96b6abe146e425a225d4a39c56.webp",
@@ -755,7 +755,7 @@
         "pt": "Jardim de borboletas",
         "ro": "Grădina fluturilor"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -763,8 +763,8 @@
       "enabled": true,
       "id": "pearl_champagne",
       "isNew": true,
-      "packageSize": 3555001,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/package/e82870cb664fb908e6e5f23d16a6cd7246ab5b2006042b807c442b1b3c0e2242.tlptheme",
+      "packageSize": 3555005,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/package/11e49713234456e6733d649f75f65d9532c8f192a0cc1bd637464dc428667ef2.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pearl_champagne/preview/820097dfd9804db4a927f726f4e9c957338df5492a15c60466e95f1d747c0c68.webp",
@@ -781,7 +781,7 @@
         "pt": "Pérola e champanhe",
         "ro": "Perle și șampanie"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -789,8 +789,8 @@
       "enabled": true,
       "id": "bunny_meadow",
       "isNew": true,
-      "packageSize": 3983609,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/package/d68122c9b9c313a54bf795645dd2c323962727745c420f98ccac5285feaecc6d.tlptheme",
+      "packageSize": 3983605,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/package/3cd9a56cfe7b1fc591266a050500579bdffa1bba3f419afa1d56c4759f5dd618.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/bunny_meadow/preview/1f4702b691427ed6c3eaab4fb22ece08dcaffe80c2a60f0674b8d2972f43bee8.webp",
@@ -807,7 +807,7 @@
         "pt": "Prado dos coelhinhos",
         "ro": "Pajiștea iepurașilor"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -815,8 +815,8 @@
       "enabled": true,
       "id": "mermaid_lagoon",
       "isNew": true,
-      "packageSize": 4300990,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/package/d7c547cd10f53811ac1eaaa3e090e4c9eaca895a5bec2373497f70042fb04912.tlptheme",
+      "packageSize": 4300993,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/package/afbffb8231c1738180047b93103c478e250bb94eec0a2a88b4669a809e6ae1ca.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mermaid_lagoon/preview/4c61ea96d36ffe78c9ea3dc034d1106cba229b842d771c8632bdf1f32b8a9770.webp",
@@ -833,7 +833,7 @@
         "pt": "Lagoa das sereias",
         "ro": "Laguna sirenelor"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -841,8 +841,8 @@
       "enabled": true,
       "id": "desert_dunes",
       "isNew": true,
-      "packageSize": 2512443,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/package/67aa311bc4fc6d24924c7c774f9e48ea07346783d1a4eb84dfb3ad4b3a567030.tlptheme",
+      "packageSize": 2512445,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/package/bcb1775c04986f799387256f472e0e3b924d7a766c66e8ae37bf6bedd5c36b9c.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/desert_dunes/preview/b0bcd0b2429eb0bb17c414c224c5a94b6e4c39b097885c81dac12678ffb55444.webp",
@@ -859,7 +859,7 @@
         "pt": "Dunas do deserto",
         "ro": "Dunele deșertului"
       },
-      "version": 2
+      "version": 3
     },
     {
       "bundled": false,
@@ -867,8 +867,8 @@
       "enabled": true,
       "id": "zen_garden",
       "isNew": true,
-      "packageSize": 2868943,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/package/01923d68208ca768a101a39104d328a972b4183fe27ea7277913362b0badbf6d.tlptheme",
+      "packageSize": 2868946,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/package/e87f6a0e7a2ff98a45d89b7020fb8b96e010589c5ef07e8d218086a4c4a218ae.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/zen_garden/preview/3c670e7d209930051af7ed034b62300958838088dd403456a4baca2d649d8e84.webp",
@@ -885,7 +885,7 @@
         "pt": "Jardim zen",
         "ro": "Grădină zen"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -893,8 +893,8 @@
       "enabled": true,
       "id": "watercolor_blooms",
       "isNew": true,
-      "packageSize": 3019979,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/package/4ec90570d64619a2ff6af8e9a687f0ef51344900cf838ddf9e220ee6ab90eaa3.tlptheme",
+      "packageSize": 3019978,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/package/78e2d87e4d26eabd247841011410f75df37cb09d14ed2f48cbf2ddbcb31f86e0.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/watercolor_blooms/preview/8ff82512fd8b9ff137100d07a3e1d9c8cc5fc2a422d30339e3508fe8b3a01190.webp",
@@ -911,7 +911,7 @@
         "pt": "Flores em aquarela",
         "ro": "Flori în acuarelă"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -919,8 +919,8 @@
       "enabled": true,
       "id": "stained_glass",
       "isNew": true,
-      "packageSize": 3676224,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/package/50443ad0d0f6cd18a037803da6b039c72e1ff9b4de998c0a8f51ee5301673760.tlptheme",
+      "packageSize": 3676226,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/package/b43c7bd802fd84e896593f26a6c89e1a843e37e65bf0cb68ab0efca4efe50eff.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stained_glass/preview/19fa33a074bc6e4d49e57385584bee3a3b78f5e83ff653a4bd42676dcca0eaab.webp",
@@ -937,7 +937,7 @@
         "pt": "Vitral",
         "ro": "Vitraliu"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -945,8 +945,8 @@
       "enabled": true,
       "id": "angel_light",
       "isNew": true,
-      "packageSize": 3191232,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/package/57a2b9a7e79bac83d3d90f4abe4e19b7f35c198545b8e0a620f93ecd7968adb7.tlptheme",
+      "packageSize": 3191229,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/package/e611f156a572d586ea210ab6215affba41b31535f53750ea010040da7347a70d.tlptheme",
       "premium": true,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/angel_light/preview/b4ae6fabcfbbcbb294dc764f1fb33e16dba91ce734932964d53d826df144950c.webp",
@@ -963,7 +963,7 @@
         "pt": "Luz de anjo",
         "ro": "Lumină de înger"
       },
-      "version": 1
+      "version": 2
     },
     {
       "bundled": false,
@@ -972,7 +972,7 @@
       "id": "sky_lanterns",
       "isNew": true,
       "packageSize": 2831536,
-      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/package/a1d15dbddd638e8e71f2df77d6d05d19f02701df5bde92e15252bd3977445a75.tlptheme",
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/package/a84a0cdf1196bf3706844aa9f66eac8a4907d4248ec31da8188ee25e8e6a701e.tlptheme",
       "premium": false,
       "previewUrls": [
         "https://themejunky.github.io/themelauncherplus-themes/v2/themes/sky_lanterns/preview/929ab8b8bf1a1b010a22b61b240b8fc53a219802103c23208d935ebf13fd1951.webp",
@@ -989,7 +989,267 @@
         "pt": "Lanternas do céu",
         "ro": "Lampioane zburătoare"
       },
-      "version": 1
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "northern_lights",
+      "isNew": true,
+      "packageSize": 2747738,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/northern_lights/package/e7bc9352bb62b2598562e435de2259882819d970f8ad09abd153af8f0cb1f650.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/northern_lights/preview/f9c028147069aebb39947180c7135364bcd12c4799e4522310236887da50726c.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/northern_lights/preview/e3fe81756e49b404f9098e2fb4a14d3b7bfc0dc10ee16b1367f3caf35b192ef5.webp"
+      ],
+      "sortOrder": 400,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/northern_lights/thumb/01d3fa2772a85de5ff3af2f215e1a869e957b9212ce6e71f8953ac342396d7d0.webp",
+      "title": {
+        "de": "Nordlichter",
+        "en": "Northern Lights",
+        "es": "Auroras boreales",
+        "fr": "Aurores boréales",
+        "it": "Aurora boreale",
+        "pt": "Auroras boreais",
+        "ro": "Aurora boreală"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "koi_pond",
+      "isNew": true,
+      "packageSize": 2655812,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/koi_pond/package/c62f269a5903169caeb5ec7277c4fd4be943d3ad2f9b4a21849e090944a29119.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/koi_pond/preview/f828e03116420dd9f47d8fcb2f5ef5357ddd370bf15d638a55efc1e0182a1709.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/koi_pond/preview/bbf87c6eb21fb6e2f04697c6e18a8c12f753f716cbd54adb683ff83ccb440f94.webp"
+      ],
+      "sortOrder": 410,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/koi_pond/thumb/36c5a68e4f0f9ed9547a5ff90e4da86de0c59ce38dad2317a0f57f89fc03e42e.webp",
+      "title": {
+        "de": "Koi-Teich",
+        "en": "Koi Pond",
+        "es": "Estanque koi",
+        "fr": "Bassin aux koïs",
+        "it": "Laghetto koi",
+        "pt": "Lago de carpas",
+        "ro": "Iazul cu koi"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "steampunk_brass",
+      "isNew": true,
+      "packageSize": 2770244,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/steampunk_brass/package/972a54969585c163357ee19497b20f0c5df7c546839dbbc48d21cc0d24e31a41.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/steampunk_brass/preview/99483e37a8426b8ea163d9dde9e326ca24b0ce7f9417b1a01f8a8bcd3904a07d.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/steampunk_brass/preview/b0e28ae3b52ab974de1aa12fe0d558827b4bd7edea803f364c34c2cf09da8faf.webp"
+      ],
+      "sortOrder": 420,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/steampunk_brass/thumb/68c53d5b83ef5ff107832c8b87426b30c1798f30b572db9e2db7217971418616.webp",
+      "title": {
+        "de": "Steampunk-Messing",
+        "en": "Steampunk Brass",
+        "es": "Latón steampunk",
+        "fr": "Laiton steampunk",
+        "it": "Ottone steampunk",
+        "pt": "Latão steampunk",
+        "ro": "Alamă steampunk"
+      },
+      "version": 3
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "art_deco_noir",
+      "isNew": true,
+      "packageSize": 2148772,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/art_deco_noir/package/50c574ddd4c6d15082c670d801358b4b0dd6341bafbe4c4331fc23faaba6ab56.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/art_deco_noir/preview/eccb8254a59a88d00f3d0456f188c17e439e52370d0523174a54d2b53f0c83bd.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/art_deco_noir/preview/4b6df675f6dba952325d06949c8ec1cf8ac33ff1aa8575fd5051fb7519b1df23.webp"
+      ],
+      "sortOrder": 430,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/art_deco_noir/thumb/ccc5aa7671ee0a7f5e1c372d2b81d8b6ff6c4b34467268e360243be11498165e.webp",
+      "title": {
+        "de": "Art-déco Noir",
+        "en": "Art Deco Noir",
+        "es": "Art déco noir",
+        "fr": "Art déco noir",
+        "it": "Art déco noir",
+        "pt": "Art déco noir",
+        "ro": "Art Deco noir"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "moroccan_mosaic",
+      "isNew": true,
+      "packageSize": 3162114,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/moroccan_mosaic/package/dc13b1c4dc3cb9f9f3ea849f1f2b78ac5b6f5c082819c6ee43c7cff3ff23d48e.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/moroccan_mosaic/preview/441f9082a38ffca6a2c5fcd1b8de1b63ac6a3d1bc13329f0368a42e8b546a0ba.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/moroccan_mosaic/preview/91b7aa4c26e93fb12b2b6124fbb9ab22cf20e8a253c2ddf1e36c127b670bda7d.webp"
+      ],
+      "sortOrder": 440,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/moroccan_mosaic/thumb/a34811f189c1334a9ce5029d87e790f2d8f0e33ebdd6d40c5c2d22ebf40d8839.webp",
+      "title": {
+        "de": "Marokkanisches Mosaik",
+        "en": "Moroccan Mosaic",
+        "es": "Mosaico marroquí",
+        "fr": "Mosaïque marocaine",
+        "it": "Mosaico marocchino",
+        "pt": "Mosaico marroquino",
+        "ro": "Mozaic marocan"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "cozy_library",
+      "isNew": true,
+      "packageSize": 2899959,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cozy_library/package/e5f9c275f3dca546f15c8c5df7dec6965e8591783a5a8e6988afefc36c325b34.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cozy_library/preview/f4a279662f75769cace6fa629d876ec978ce65c7df42ce6c979d4b55c5d00c2b.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cozy_library/preview/263f0c39b3246e45e3709f437ab8677581c220e24df7ce30803b1eb47f0b5a32.webp"
+      ],
+      "sortOrder": 450,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cozy_library/thumb/ac3e3d46f9afb7e7b131f64ba2cfc40387bb7eebae01620cecd1c0c7160c42e7.webp",
+      "title": {
+        "de": "Gemütliche Bibliothek",
+        "en": "Cozy Library",
+        "es": "Biblioteca acogedora",
+        "fr": "Bibliothèque douillette",
+        "it": "Biblioteca accogliente",
+        "pt": "Biblioteca aconchegante",
+        "ro": "Bibliotecă primitoare"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "great_wave",
+      "isNew": true,
+      "packageSize": 2454646,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/great_wave/package/e201ff08f70138818678fd839ac7608a6388fd153c8ee2c5d0f284f794440871.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/great_wave/preview/53156efe90817ef2aa9c5349dbed072591493cce14d26ee5403226e6613d0ec8.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/great_wave/preview/4797ba0ae64466a0c80be4eae669e174dfd4fd87bd4929b8fbd5983132ce8e5c.webp"
+      ],
+      "sortOrder": 460,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/great_wave/thumb/32d610b3a1f2dcdafa7179e2f41f5d911b532a9dcd6f3b2d50321138f448b0a0.webp",
+      "title": {
+        "de": "Die große Welle",
+        "en": "Great Wave",
+        "es": "La gran ola",
+        "fr": "La grande vague",
+        "it": "La grande onda",
+        "pt": "A grande onda",
+        "ro": "Marele val"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "lighthouse_coast",
+      "isNew": true,
+      "packageSize": 2766873,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lighthouse_coast/package/36eac1641f9ff8f1a119e0fd6bd18ac9c81c4b8b3aa5b1f1424aca6e4269e416.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lighthouse_coast/preview/154915d3fdff6384db4aa71e578a7b48ae214acd891e84ca5cd07805fa3ebf0c.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lighthouse_coast/preview/08fc46bd6ae17ce58a8a204c389da451a38fd03872ee535750ba47fb391a0ae2.webp"
+      ],
+      "sortOrder": 470,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lighthouse_coast/thumb/8a1f32854c1377c4dbde609aa3a14a2cd9fadb2d404e95afe00e53699ed7810a.webp",
+      "title": {
+        "de": "Leuchtturmküste",
+        "en": "Lighthouse Coast",
+        "es": "Costa del faro",
+        "fr": "Côte du phare",
+        "it": "Costa del faro",
+        "pt": "Costa do farol",
+        "ro": "Coasta cu far"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "vintage_vinyl",
+      "isNew": true,
+      "packageSize": 2259937,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/vintage_vinyl/package/fb3559e8e9999a50302cd9aa36d84792ace67d4496b14739c8059c31042b1cbc.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/vintage_vinyl/preview/138989b83090f562e7afcc941a848e8d36d5541e504212ad7731626feb703851.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/vintage_vinyl/preview/a65f33f761994a7cb33158c80babe9c22a566e895cd712c4fba644df7041e522.webp"
+      ],
+      "sortOrder": 480,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/vintage_vinyl/thumb/4e9351f9736e46d97d832bd7f65d283931f69a833b1fe96294a24be3e47e5dc0.webp",
+      "title": {
+        "de": "Vintage-Vinyl",
+        "en": "Vintage Vinyl",
+        "es": "Vinilo vintage",
+        "fr": "Vinyle vintage",
+        "it": "Vinile vintage",
+        "pt": "Vinil vintage",
+        "ro": "Vinil vintage"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "black_marble_gold",
+      "isNew": true,
+      "packageSize": 2575377,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/black_marble_gold/package/5bcbdbda40377d3a32482929c1253fa8acbcc0fa53f63c46ff42a70c540d38a5.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/black_marble_gold/preview/2b6489a581a65a7c3d916c9a93af8fc8eb39fa5c90667470c8f538549491fe74.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/black_marble_gold/preview/0ed1c8385b1483eeef6e6455d99241d69cfb95c8e11fec34fb0f5e70ae04c5b9.webp"
+      ],
+      "sortOrder": 490,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/black_marble_gold/thumb/e81d5a4887613765dc644d6ab1246038f6ceac0086aee34ff9b7536cb2732864.webp",
+      "title": {
+        "de": "Schwarzer Marmor & Gold",
+        "en": "Black Marble Gold",
+        "es": "Mármol negro y oro",
+        "fr": "Marbre noir et or",
+        "it": "Marmo nero e oro",
+        "pt": "Mármore negro e ouro",
+        "ro": "Marmură neagră și aur"
+      },
+      "version": 2
     }
   ]
 }
