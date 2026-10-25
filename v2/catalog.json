@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:26:49Z",
+  "generatedAt": "2026-10-25T13:16:40Z",
   "product": "theme_launcher_plus",
   "schemaVersion": 1,
   "themes": [
@@ -1248,6 +1248,526 @@
         "it": "Marmo nero e oro",
         "pt": "Mármore negro e ouro",
         "ro": "Marmură neagră și aur"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "space",
+      "enabled": true,
+      "id": "orbital_satin",
+      "isNew": true,
+      "packageSize": 2274218,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/orbital_satin/package/acd9c69e2c2f6ba8051583c6748906203d4aa413aac3fa9fb424ba87f86875e5.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/orbital_satin/preview/60685127b0b3fdb4dc683ebb102a9108ef0f2a58030a4c7230919a6660d7f1fe.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/orbital_satin/preview/8f486b26b223029a97de1db2339ff8343356257ea1968a71d5995bbd24bc37c9.webp"
+      ],
+      "sortOrder": 500,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/orbital_satin/thumb/80c9ad566f95961b29292812e70c569a416c8b317510ea05a34ea53f625c23c4.webp",
+      "title": {
+        "de": "Satin im Orbit",
+        "en": "Orbital Satin",
+        "es": "Satén orbital",
+        "fr": "Satin orbital",
+        "it": "Raso orbitale",
+        "pt": "Cetim orbital",
+        "ro": "Satin orbital"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "essentials",
+      "enabled": true,
+      "id": "mint_calm",
+      "isNew": true,
+      "packageSize": 1407227,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mint_calm/package/e8f25b0212331dcaf5d353c73ec0bb8c2b2e78e32714928c5cc3f5e6c1bc8316.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mint_calm/preview/e5527ceb446280e3406545d2d3380346ab372653475e06bc54dd4903961bf54d.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mint_calm/preview/a364afc2d3f1734da50b77ef8feeff6eb22da8a20437617f609663fd963f1fe2.webp"
+      ],
+      "sortOrder": 510,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/mint_calm/thumb/77fe7557e9dc374899d2108348b93dcf7fc8f9240f36aab49e540712e21c826a.webp",
+      "title": {
+        "de": "Minzgrüne Ruhe",
+        "en": "Mint Calm",
+        "es": "Calma en verde menta",
+        "fr": "Calme vert menthe",
+        "it": "Calma verde menta",
+        "pt": "Calma verde-menta",
+        "ro": "Liniște verde-mentă"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "pocket_penguins",
+      "isNew": true,
+      "packageSize": 2675406,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pocket_penguins/package/ba479e558d5ed88a17e96f05ebceb7e2f1b43d2bc49420382bf1853d457536bf.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pocket_penguins/preview/809120ff2a2592ef28f1ae5211a1efb24915839abe59bb3704292a68f428be30.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pocket_penguins/preview/697147eb5353382d184342eb19c4f58df7e9da56d1825fec3d18d059bd938283.webp"
+      ],
+      "sortOrder": 520,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pocket_penguins/thumb/4d311544460497dd922a3e880f78a4ce2b490dfa4fa4db25d6cbc37bb2c7b619.webp",
+      "title": {
+        "de": "Taschenpinguine",
+        "en": "Pocket Penguins",
+        "es": "Pingüinos de bolsillo",
+        "fr": "Manchots de poche",
+        "it": "Pinguini tascabili",
+        "pt": "Pinguins de bolso",
+        "ro": "Pinguini de buzunar"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "nature",
+      "enabled": true,
+      "id": "canyon_river",
+      "isNew": true,
+      "packageSize": 1999431,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/canyon_river/package/f59b9ef07249ffc47ded8efa9798c0e7b143f802e9bbbb5754a31261452f4730.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/canyon_river/preview/7373d4de0fb3a0cfcdff0dbf7e7b21dc8856ed5f927421b667d8e9d6be569983.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/canyon_river/preview/bd2fba74b4a0a40c0e9bfd1422b9853c0093606f83c683184feb14ebbf6cc7a7.webp"
+      ],
+      "sortOrder": 530,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/canyon_river/thumb/ad3f083ca8f6140acf22b9d78203a5ad0ffbc23a9a0eb1203fc0bd8ee4b6bf75.webp",
+      "title": {
+        "de": "Canyonfluss",
+        "en": "Canyon River",
+        "es": "Río del cañón",
+        "fr": "Rivière du canyon",
+        "it": "Fiume nel canyon",
+        "pt": "Rio do desfiladeiro",
+        "ro": "Râul din canion"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "prism_ribbon",
+      "isNew": true,
+      "packageSize": 2050643,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/prism_ribbon/package/b7e5a21122c621e2bf04213ee9dfda0304978f85ebf6ea084803a3e11cf7cc0a.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/prism_ribbon/preview/b95b0fd3f087662076d906ee3f690dce5ea40a55e463f5291adf27a2543c801d.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/prism_ribbon/preview/0afb0a2c68e5883c06d5e75c43ef66d349ae7a150e6c62cf8c4f513ed3362a6f.webp"
+      ],
+      "sortOrder": 540,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/prism_ribbon/thumb/cf2015806c764c1363943bcf6c210052d0e659b54c6d98d248ff1145da3f4573.webp",
+      "title": {
+        "de": "Prismenband",
+        "en": "Prism Ribbon",
+        "es": "Cinta prismática",
+        "fr": "Ruban prismatique",
+        "it": "Nastro prismatico",
+        "pt": "Fita prismática",
+        "ro": "Panglică prismatică"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "minimal",
+      "enabled": true,
+      "id": "chalk_fold",
+      "isNew": true,
+      "packageSize": 1897759,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/chalk_fold/package/2a602864cb9154ccb0b4cbe007b4e2038ba6b725641f15c3ada413301591e27a.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/chalk_fold/preview/035138fbf90223c9022b0f561ab7a86cc1c07f1398f60b9ff175e2642a1e55b1.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/chalk_fold/preview/e4f5a728486db9164290f9bd586df5e00aee677b243c3080262a16ea45223d3a.webp"
+      ],
+      "sortOrder": 550,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/chalk_fold/thumb/43fd63ccd271d2a148c42bb51db86192810641537090f14499fe7ef0f5a9014d.webp",
+      "title": {
+        "de": "Kreidefalten",
+        "en": "Chalk Fold",
+        "es": "Pliegues de tiza",
+        "fr": "Plis de craie",
+        "it": "Pieghe di gesso",
+        "pt": "Dobras de giz",
+        "ro": "Pliuri de cretă"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "luxury",
+      "enabled": true,
+      "id": "jade_peacock",
+      "isNew": true,
+      "packageSize": 2082351,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/jade_peacock/package/cbf6bb3ff545fb4c9f18fa53cab0464ddb33b3bbf1ec5057d2bd4d0729d3233d.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/jade_peacock/preview/9a26be2d32e4e74a21123bc9945dfc4de1768c7756a380d617f3904dc77804ff.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/jade_peacock/preview/ea7c1364064167757c647eb133715c4cbc6a5e830c4bf8faea28c83d9ceab768.webp"
+      ],
+      "sortOrder": 560,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/jade_peacock/thumb/8c69eb4a9c4ff5e64d458f9a6dada660ff807dc2f19c2d0b715dca1f235f7cc0.webp",
+      "title": {
+        "de": "Jadepfau",
+        "en": "Jade Peacock",
+        "es": "Pavo real de jade",
+        "fr": "Paon de jade",
+        "it": "Pavone di giada",
+        "pt": "Pavão de jade",
+        "ro": "Păun de jad"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "corgi_parcel",
+      "isNew": true,
+      "packageSize": 1692859,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/corgi_parcel/package/7d91b5faba5719728aef7c93528786166ba9e91d6ff17fe42ca9dc66a857fc48.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/corgi_parcel/preview/3b263cd5716dd34f003b7b6271de297fa6355b7176b1a9ec896f2d26752cdc49.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/corgi_parcel/preview/1fa5554957202a2f255190dca5c107d7b5ba5ed32b04cc7a8d86098bc354ec7f.webp"
+      ],
+      "sortOrder": 570,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/corgi_parcel/thumb/f1b8b771c88ee57140ba9983f9e5cea2c4eb65fa599553f3dd59f366868bf519.webp",
+      "title": {
+        "de": "Corgi-Paket",
+        "en": "Corgi Parcel",
+        "es": "Paquete del corgi",
+        "fr": "Colis du corgi",
+        "it": "Pacco del corgi",
+        "pt": "Pacote do corgi",
+        "ro": "Coletul corgiului"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "space",
+      "enabled": true,
+      "id": "solar_sail",
+      "isNew": true,
+      "packageSize": 1742168,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/solar_sail/package/ed2848150af93edb5873f1158d8d2d3d45db3f73e951a501b50de79a47fed587.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/solar_sail/preview/6513a1214ad0bcf600dd93550657b0b4a52b9d79ef05c6afd87acaec5460d12a.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/solar_sail/preview/12f92071f1066ce79182976b057985a67260a68a990b80a90005c15d7af5a675.webp"
+      ],
+      "sortOrder": 580,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/solar_sail/thumb/7e466218b47d27da96d270916baacf0774c8f93f0f6c83608b979ef55d212835.webp",
+      "title": {
+        "de": "Sonnensegel",
+        "en": "Solar Sail",
+        "es": "Vela solar",
+        "fr": "Voile solaire",
+        "it": "Vela solare",
+        "pt": "Vela solar",
+        "ro": "Velă solară"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "handcrafted",
+      "enabled": true,
+      "id": "paper_kites",
+      "isNew": true,
+      "packageSize": 1893484,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/paper_kites/package/b5825b19aea53f36a00fd5e69aa367a74a1c27b61f35331c8a051d4d3f952999.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/paper_kites/preview/e1f87d180a54c5f9434eb38841f63c2246a944181f7c36745326fb9f7b5a43e4.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/paper_kites/preview/d9f5b88a8964dc012a5d39c031c1ce88b137cab4d8f850754e66af0e82a7cda1.webp"
+      ],
+      "sortOrder": 590,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/paper_kites/thumb/83478463268cca385fa87270b28547c4a5ea49aa4b6c6de6ee84210a281330fc.webp",
+      "title": {
+        "de": "Papierdrachen",
+        "en": "Paper Kites",
+        "es": "Cometas de papel",
+        "fr": "Cerfs-volants de papier",
+        "it": "Aquiloni di carta",
+        "pt": "Pipas de papel",
+        "ro": "Zmee de hârtie"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "handcrafted",
+      "enabled": true,
+      "id": "copper_hummingbird",
+      "isNew": true,
+      "packageSize": 2269853,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/copper_hummingbird/package/87ed3672f789a5a97569e4b721d6af271f8c647fb2a61187b013231f830eb2e7.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/copper_hummingbird/preview/74da59d2ee34b9b23fa5b1a6611b5d8a04a626d90837eb848a7c461729366a61.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/copper_hummingbird/preview/11a25deaf7f051ee4c44e0475fa6285654389f43f9201658489300a5908de685.webp"
+      ],
+      "sortOrder": 600,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/copper_hummingbird/thumb/b357f0e5e5c23e693e3ae7669f6b3b8291bbcca57d7cb002d742ee409b5acf70.webp",
+      "title": {
+        "de": "Kupferkolibri",
+        "en": "Copper Hummingbird",
+        "es": "Colibrí de cobre",
+        "fr": "Colibri de cuivre",
+        "it": "Colibrì di rame",
+        "pt": "Beija-flor de cobre",
+        "ro": "Colibri de cupru"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "essentials",
+      "enabled": true,
+      "id": "cobalt_current",
+      "isNew": true,
+      "packageSize": 1829561,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cobalt_current/package/190a0c36311e41855a837fb8a93ca04030799342d8b121a0f9836d87cbc203db.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cobalt_current/preview/66dd6151779e2901f2efdc309c399cb6417c0f0c999601148706f713a3cb84f1.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cobalt_current/preview/9355ec0f8b9ac026dd49d9408a40ff79c63968d1f07d18711cc6272268402536.webp"
+      ],
+      "sortOrder": 610,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/cobalt_current/thumb/0490f14e9468ab076729b45d19797a320af8bec3b536549cfac5b4df5c6d22ee.webp",
+      "title": {
+        "de": "Kobaltstrom",
+        "en": "Cobalt Current",
+        "es": "Corriente de cobalto",
+        "fr": "Courant de cobalt",
+        "it": "Corrente di cobalto",
+        "pt": "Corrente de cobalto",
+        "ro": "Curent de cobalt"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "minimal",
+      "enabled": true,
+      "id": "stone_arc",
+      "isNew": true,
+      "packageSize": 2388008,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stone_arc/package/306b47bec8efe18ef5f66017897ba7019c60ef55e07950f70c8884991133aa0d.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stone_arc/preview/4d294733b69988b3ad673137486fe59de94f6ce4f569a78e42d6568d19f06077.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stone_arc/preview/86f4326b66d9816b746a2c2bea191242443bd2222d0c34b8c5f57b18968707c6.webp"
+      ],
+      "sortOrder": 620,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/stone_arc/thumb/4ea8b4721b7b7128e812e7195d288e7f79622655d868d92bca2a3f058bcb0732.webp",
+      "title": {
+        "de": "Steinbogen",
+        "en": "Stone Arc",
+        "es": "Arco de piedra",
+        "fr": "Arche de pierre",
+        "it": "Arco di pietra",
+        "pt": "Arco de pedra",
+        "ro": "Arc de piatră"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "colorful",
+      "enabled": true,
+      "id": "citrus_picnic",
+      "isNew": true,
+      "packageSize": 2080508,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/citrus_picnic/package/7f146f203dcf8c5e1aa38b5ecde151c65515223afc1f7692b2c6a793641adfc8.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/citrus_picnic/preview/fff9484bbe793f027f6ec25b09868b669fa06742eb407b2126d7b3e6c6293592.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/citrus_picnic/preview/fd8d3a738ba69de40cbc129998e3349a3ad3b214b3d45fd5e84c2f0be3d6fcef.webp"
+      ],
+      "sortOrder": 630,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/citrus_picnic/thumb/83adbb5db77846c62f83c32af440d36ccfff1325c101ed4e15a06b80e2ef1856.webp",
+      "title": {
+        "de": "Zitruspicknick",
+        "en": "Citrus Picnic",
+        "es": "Pícnic cítrico",
+        "fr": "Pique-nique aux agrumes",
+        "it": "Picnic agli agrumi",
+        "pt": "Piquenique cítrico",
+        "ro": "Picnic cu citrice"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "playful",
+      "enabled": true,
+      "id": "pinball_party",
+      "isNew": true,
+      "packageSize": 1993967,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pinball_party/package/720673b6a890922b4d091e9d7548cd91bbe31f1d3a7cbebb6cc7d5718b408bee.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pinball_party/preview/c72c7af9ae16da8f85f808734944c3b6a0848d3cdba884178bc6e730fe93cb8d.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pinball_party/preview/4bbc3639bd9a09d00ebba5227819ebc74eb13ee5f2e24dbec36894b119c137a7.webp"
+      ],
+      "sortOrder": 640,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/pinball_party/thumb/e19fe1e7fd89b3327be8d049e07ad5be69c8058642ae3058d4464f0c00e72726.webp",
+      "title": {
+        "de": "Flipperparty",
+        "en": "Pinball Party",
+        "es": "Fiesta de pinball",
+        "fr": "Fête du flipper",
+        "it": "Festa del flipper",
+        "pt": "Festa do pinball",
+        "ro": "Petrecere pinball"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "space",
+      "enabled": true,
+      "id": "lunar_dawn",
+      "isNew": true,
+      "packageSize": 1795546,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lunar_dawn/package/8d6ae308e86024b67a0f13cc281b1c1907b92428a7d2539b6beb682c13eb4824.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lunar_dawn/preview/961f37c1f7350d8fe5f30f69177ce4601059cd03e0ff763f3232f1ff2e84bc5c.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lunar_dawn/preview/03d22339ce4e7753a051cd51ef3ab13ce3d58791a534ee1938ba3f6f03dab124.webp"
+      ],
+      "sortOrder": 650,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/lunar_dawn/thumb/98f50fc164b80d5f6b2fe57c3d02b992ee6b8e4d0773dee8fd02b09ea35b0c82.webp",
+      "title": {
+        "de": "Monddämmerung",
+        "en": "Lunar Dawn",
+        "es": "Amanecer lunar",
+        "fr": "Aube lunaire",
+        "it": "Alba lunare",
+        "pt": "Amanhecer lunar",
+        "ro": "Zori lunari"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "handcrafted",
+      "enabled": true,
+      "id": "threaded_hills",
+      "isNew": true,
+      "packageSize": 2292669,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/threaded_hills/package/c7b0093b94277203ad93769516d6c3a25817dfbd6181052f0754195192353218.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/threaded_hills/preview/8b9f9a88e1bd210675a2945092261af49401ccfab51bda1133c6dfd86f94ae1b.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/threaded_hills/preview/ce42c4c791d16416a7cc964253cb88601f61ff167ffa13680e8d08baf706c8bc.webp"
+      ],
+      "sortOrder": 660,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/threaded_hills/thumb/4db606e348de9204cef95636a8e194ec37608a69c30e7600da37043cedbbb7c8.webp",
+      "title": {
+        "de": "Gestickte Hügel",
+        "en": "Threaded Hills",
+        "es": "Colinas bordadas",
+        "fr": "Collines brodées",
+        "it": "Colline ricamate",
+        "pt": "Colinas bordadas",
+        "ro": "Dealuri cusute"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "abstract",
+      "enabled": true,
+      "id": "kinetic_balance",
+      "isNew": true,
+      "packageSize": 1772337,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kinetic_balance/package/e991ba40121427693baf44f34841426fcf7e969bad00d866ab699693c1b6e402.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kinetic_balance/preview/fbda582420b772372a48d24c4ac3bf822c1300141749c0a824c4e58ea9154e43.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kinetic_balance/preview/80af5c987ffd375fb7690d0ef7a93e6883e2f9618f091c119a1152bca5dbc8b5.webp"
+      ],
+      "sortOrder": 670,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/kinetic_balance/thumb/b08395e3bc7a8a1048b6b710f8bd3958f93ee9233b96aca102a10142852ffc32.webp",
+      "title": {
+        "de": "Kinetische Balance",
+        "en": "Kinetic Balance",
+        "es": "Equilibrio cinético",
+        "fr": "Équilibre cinétique",
+        "it": "Equilibrio cinetico",
+        "pt": "Equilíbrio cinético",
+        "ro": "Echilibru cinetic"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "dark",
+      "enabled": true,
+      "id": "midnight_jellies",
+      "isNew": true,
+      "packageSize": 1847716,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/midnight_jellies/package/b3096618118ba8bf0d3dc2bbf9fc5e85beffe0e13b43d89ffb945e3b5b5a2ba4.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/midnight_jellies/preview/164fd9301bf66d35388a7913ada5eda256ebbda3c4666ae35058903a4c94a8c6.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/midnight_jellies/preview/020614321ae2ea4c5251660cdef153d6ab354247226de9db84d50d134200c730.webp"
+      ],
+      "sortOrder": 680,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/midnight_jellies/thumb/28eff19e7c5c9c3eef96046a9d90027bf1571432a814b19a327af90374586fb8.webp",
+      "title": {
+        "de": "Mitternachtsquallen",
+        "en": "Midnight Jellies",
+        "es": "Medusas de medianoche",
+        "fr": "Méduses de minuit",
+        "it": "Meduse di mezzanotte",
+        "pt": "Águas-vivas à meia-noite",
+        "ro": "Meduze la miezul nopții"
+      },
+      "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "minimal",
+      "enabled": true,
+      "id": "graphite_balance",
+      "isNew": true,
+      "packageSize": 1416366,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/graphite_balance/package/d5cf3fd37a5ba3989f2815ebead4501e8432bb9c4ae6778c4aaadc9cd2e94f8b.tlptheme",
+      "premium": false,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/graphite_balance/preview/7d874938fb2732ccdfb4caa74545165257f74138491fb0ebc5bca4c2143457ea.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/graphite_balance/preview/a7281bc3cf8dd43e8ac7c0c66c15ab8efd1105fd9042f367c8003a77f84f8618.webp"
+      ],
+      "sortOrder": 690,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/graphite_balance/thumb/d8cf84c119317673e977cb1d3f046e0f853256383acb30690cc148d0c50cc357.webp",
+      "title": {
+        "de": "Grafitbalance",
+        "en": "Graphite Balance",
+        "es": "Equilibrio de grafito",
+        "fr": "Équilibre de graphite",
+        "it": "Equilibrio di grafite",
+        "pt": "Equilíbrio de grafite",
+        "ro": "Echilibru de grafit"
       },
       "version": 2
     }
