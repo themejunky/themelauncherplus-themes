@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:16:40Z",
+  "generatedAt": "2026-10-30T09:39:58Z",
   "product": "theme_launcher_plus",
   "schemaVersion": 1,
   "themes": [
@@ -1770,6 +1770,32 @@
         "ro": "Echilibru de grafit"
       },
       "version": 2
+    },
+    {
+      "bundled": false,
+      "category": "minimal",
+      "enabled": true,
+      "id": "ln29_glass_home",
+      "isNew": true,
+      "packageSize": 932676,
+      "packageUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ln29_glass_home/package/740c1acacda6ff75633412c893bed1dc78c0cbb4f039994b348a13371048a151.tlptheme",
+      "premium": true,
+      "previewUrls": [
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ln29_glass_home/preview/00ac60feb36395894707d11e4f18ef5376bf7ba4b0c743b192c92f3763e5974e.webp",
+        "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ln29_glass_home/preview/de819bdd3cda8c518eb3283081fc7b4993297cc1eda1983f980882d2a8e3d7a8.webp"
+      ],
+      "sortOrder": 700,
+      "thumbUrl": "https://themejunky.github.io/themelauncherplus-themes/v2/themes/ln29_glass_home/thumb/45e73d0079ae81561007160193a6d4d93caf2dd79c411a90e212010e6d1efd50.webp",
+      "title": {
+        "de": "Gläsernes Zuhause",
+        "en": "Glass Home",
+        "es": "Hogar de cristal",
+        "fr": "Maison de verre",
+        "it": "Casa di vetro",
+        "pt": "Lar de vidro",
+        "ro": "Acasă în sticlă"
+      },
+      "version": 1
     }
   ]
 }
